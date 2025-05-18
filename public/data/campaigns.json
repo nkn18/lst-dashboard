@@ -1,0 +1,16 @@
+[
+  {
+    "campaign_name": "DeFi Singularity",
+    "description": "Earn vDOT Rewards by providing liquidity to eligible pools.",
+    "campaign_time": "ongoing",
+	"campaign_reward": "765,000 DOT",
+    "campaign_link": "https://defisingularity.com/explore"
+  },
+  {
+    "campaign_name": "Coming Soon",
+    "description": "Coming Soon",
+    "campaign_time": "ongoing",
+	"campaign_reward": "Coming Soon",
+    "campaign_link": "/"
+  }
+] 
