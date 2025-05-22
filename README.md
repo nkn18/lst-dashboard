@@ -20,7 +20,7 @@ A modern dashboard to compare yield and liquidity provision (LP) opportunities o
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/nkn18/lst-dashboard.git
+git clone https://github.com/nknnixx/lst-dashboard.git
 cd lst-dashboard
 ```
 
